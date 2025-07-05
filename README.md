@@ -20,4 +20,4 @@ Input fields for:
 *PIMA Indians Diabetes Dataset
 *Source: Kaggle
 *Format: CSV
-*Target: Outcome (0 = non-diabetic, 1 = diabetic)
+*Target: Outcome (0 = non-diabetic, 1 = diabetic) 
